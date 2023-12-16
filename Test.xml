@@ -1,5 +1,2 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<Module>
-<ModulePrefs title="..."/>
-<Content type="html"><![CDATA[<h1>hello</h1>]]></Content>
-</Module>
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="shiitake.xsl"?>
