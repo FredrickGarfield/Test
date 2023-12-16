@@ -4,9 +4,7 @@ importScripts('the.js');
 
 const sw = new UVServiceWorker();
 
-self.addEventListener('fetch', (event) => event.respondWith(async () => {
-    return new Response(event.request.url || "slos");
-}));
+self.addEventListener('fetch', (event) => event.respondWith(new Response(event.request.url || "hello world")));
 
 
 //self.addEventListener('fetch', (event) => event.respondWith(sw.fetch(event)));
