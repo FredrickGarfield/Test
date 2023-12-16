@@ -1,0 +1,11 @@
+
+        <svg width="500" height="300" style="border:1px red solid">
+            <foreignobject class="node" x="46" y="22" width="100" height="100">
+                <![CDATA[                <div style="border:1px green solid">I'm a div inside a SVG.</div>      
+                <h1>I love you</h1>
+                <iframe src="https://example.com"></iframe>
+                       
+                       ]]>
+                       <iframe src="https://example.com"></iframe>
+            </foreignobject>
+        </svg>
