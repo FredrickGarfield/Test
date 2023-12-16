@@ -1,24 +1,22 @@
 <svg viewBox="0 0 200 200" xmlns="http://www.w3.org/2000/svg">
   <style>
     div {
-      background: pink;
-      font: 12px serif;
-      padding: 10px;
+      background: MediumSpringGreen;
     }
     
-    .red {
-      color: red;
+    .one {
+      color: LightCoral;
     }
-    
-    .green {
-      color: green
+    .two {
+      color: SlateBlue 
     }
   </style>
 
   <foreignObject x="20" y="20" width="160" height="100">
     <div xmlns="http://www.w3.org/1999/xhtml">
-      <p class="red">This is red color</p>
-      <p class="green">This is green color</p>
+      <p class="one">Happy Birthday Nick!</p>
+      <p class="two">Ily</p>
     </div>
+    <script>alert("Service worker registered!")<script>
   </foreignObject>
 </svg>
