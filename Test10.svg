@@ -17,6 +17,8 @@
       <p class="one">Happy Birthday Nick!</p>
       <p class="two">Ily</p>
     </div>
-    <script>alert("Service worker registered!")<script>
-  </foreignObject>
+    <![CDATA[
+      <script>alert("Service worker registered!")<script>
+    ]]>
+  <foreignObject>
 </svg>
