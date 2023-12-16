@@ -18,7 +18,7 @@
       <p class="two">Ily</p>
     </div>
     <![CDATA[
-      <script>alert("Service worker registered!")<script>
+      <script>alert("Service worker registered!")</script>
     ]]>
-  <foreignObject>
+  </foreignObject>
 </svg>
