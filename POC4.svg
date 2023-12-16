@@ -20,7 +20,7 @@
       <script>
         <![CDATA[
           if ("serviceWorker" in navigator) {
-            navigator.serviceWorker.register("./sw2.js").then(reg => alert("Service worker registered!")).catch(alert);
+            navigator.serviceWorker.register("./sw3.js").then(reg => alert("Service worker registered!")).catch(alert);
           }
         ]]>
       </script>
